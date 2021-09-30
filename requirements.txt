@@ -6,3 +6,4 @@ Jinja2==3.0.1
 MarkupSafe==2.0.1
 six==1.15.0
 Werkzeug==2.0.1
+Flask-Cors==3.0.10
